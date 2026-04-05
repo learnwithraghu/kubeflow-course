@@ -1,4 +1,4 @@
-# Section 01: Scenario-Based Learning - Flight Delay Prediction at Sky Airlines
+# Section 00: Scenario-Based Learning - Flight Delay Prediction at Sky Airlines
 
 ## Overview
 This section introduces a real-world scenario to motivate learning Kubeflow. We'll follow John, a data scientist at Sky Airlines, as he tackles flight delay prediction using machine learning.
