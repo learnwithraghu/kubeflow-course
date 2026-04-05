@@ -1,4 +1,4 @@
-# Demo 1.1: First Look at Kubeflow
+# Demo 2: First Look at Kubeflow Dashboard
 
 ## Overview
 This demo shows Kubeflow's main features through the dashboard.
